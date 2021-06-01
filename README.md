@@ -21,7 +21,7 @@ npm start
 ```
 
 ## Screenshot
-<img src="https://github.com/ongyishen/RNQRScannerExpo/blob/main/Sample.jpg?raw=true" />
+<img src="https://github.com/ongyishen/RNQRScannerExpo/blob/main/Sample.jpg?raw=true" width="200" height="400" />
 
 
 ## NPM Package
